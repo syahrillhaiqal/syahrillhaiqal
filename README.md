@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Syahril Haiqal</h1>
+# 👋 Hi there! I'm Syahril Haiqal
 
-<p align="center">💻 Passionate Full Stack Developer | Creative Coder | Tech Explorer</p>
+🎓 A passionate **Full Stack Developer** who loves building smart, meaningful systems — from backend logic to frontend designs.
 
 ---
 
@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center"><i>“Do whatever you want!” – Syahril Haiqal</i></p>
+> “Do whatever you want!” – Syahril Haiqal
