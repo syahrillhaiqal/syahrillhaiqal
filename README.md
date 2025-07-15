@@ -46,7 +46,3 @@
 
 - ✉️ Email: [syahrilhaiqal5@gmail.com](mailto:syahrilhaiqal5@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/syahril-haiqal-36620735a](https://www.linkedin.com/in/syahril-haiqal-36620735a/)
-
----
-
-> “Do whatever you want!” – Syahril Haiqal
